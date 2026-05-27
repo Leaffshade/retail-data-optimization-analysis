@@ -1,2 +1,1 @@
-# retail-data-optimization-analysis
-Nettoyage, fusion et analyse de données commerciales afin d’optimiser le suivi des ventes, des stocks et des performances produits avec Python.
+Projet d’analyse et de nettoyage de données commerciales avec Python : fusion de fichiers, analyse des ventes, gestion des stocks et visualisation des données.
