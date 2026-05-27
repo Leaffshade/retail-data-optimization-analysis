@@ -70,3 +70,13 @@ Des visualisations ont été réalisées afin d’identifier les tendances et le
 ## 📌 Conclusion
 
 Ce projet m’a permis de développer mes compétences en nettoyage de données, en fusion de datasets et en analyse commerciale avec Python.
+
+---
+
+## 📷 Aperçu des graphiques
+
+![Palmarès des articles en CA](images/Graph1.png)
+![Analyse du taux de marge](images/Graph2.png)
+![Répartition des prix - boite à moustache avec Pandas](images/Graph3.png)
+![Boite à moustache avec Plotly Express](images/Graph4.png)
+![Matrice de corrélation](images/Graph5.png)
