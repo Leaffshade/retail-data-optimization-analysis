@@ -1,3 +1,107 @@
+<img width="20" src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" />
+
+# Optimization and Data Analysis of a Retail Store
+
+## 🎯 Project Objective
+
+This project consists of cleaning, merging, and analyzing retail store data in order to improve data quality and reliably leverage business information.
+
+The goal was also to answer several questions related to sales, inventory, and revenue.
+
+---
+
+## 📂 Data Used
+
+The project is based on several Excel files:
+
+- ERP file
+- web file
+- linkage file
+
+This data was processed and merged using Python to obtain a consistent view of the business activity.
+
+---
+
+## 🧹 Data Cleaning
+
+The data preparation work included:
+
+- correcting inconsistent data
+- handling missing values
+- standardizing formats
+- checking data quality
+
+This step helps improve the reliability of analyses and ensures consistent results.
+
+---
+
+## 🔗 Data Merging and Linking
+
+Joins were performed between the different data sources in order to:
+
+- link products across files
+- cross sales, stock, and product information
+- obtain a global view of the business activity
+
+---
+
+## 📊 Analyses Performed
+
+The analyses focused on:
+
+- product revenue
+- profit margins
+- price distribution
+- correlations between sales, stock, and prices
+
+Visualizations were created to identify trends and outliers.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly Express
+- Excel
+
+---
+
+## 📌 Conclusion
+
+This project helped me develop my skills in data cleaning, dataset merging, and business data analysis using Python.
+
+---
+
+## 📷 Charts Overview
+
+Product revenue ranking :
+
+![Top-selling products by revenue](images/Graph1.png)
+
+Profit margin analysis :
+
+![Profit margin analysis](images/Graph2.png)
+
+Creation of a boxplot showing price distribution using Pandas :
+
+![Price distribution - boxplot with Pandas](images/Graph3.png)
+
+Alternative method using Plotly Express :
+
+![Boxplot with Plotly Express](images/Graph4.png)
+
+Correlation analysis between stock, sales and price variables :
+
+![Correlation matrix](images/Graph5.png)
+
+
+---
+
+<img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
+
 # Optimisation et analyse des données d’une boutique
 
 ## 🎯 Objectif du projet
