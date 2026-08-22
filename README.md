@@ -99,9 +99,9 @@ Correlation analysis between stock, sales and price variables :
 
 ![Correlation matrix](images/Graph5.png)
 
+> This repository presents a portfolio version of the project. Some implementation details and calculations are intentionally not included.
 
 ---
-
 <img width="20" src="https://github.com/user-attachments/assets/72fd52aa-5166-461c-8ef6-f51a74c0374a" />
 
 # Optimisation et analyse des données d’une boutique
@@ -186,3 +186,5 @@ Ce projet m’a permis de développer mes compétences en nettoyage de données,
 ![Répartition des prix - boite à moustache avec Pandas](images/Graph3.png)
 ![Boite à moustache avec Plotly Express](images/Graph4.png)
 ![Matrice de corrélation](images/Graph5.png)
+
+> Ce dépôt présente une version portfolio du projet. Certains détails d'implémentation et calculs ne sont volontairement pas inclus.
